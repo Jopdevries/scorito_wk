@@ -1,0 +1,2241 @@
+Harry Kane:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kylian Mbappe:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mikel Oyarzabal:
+  position: FWD
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lamine Yamal:
+  position: FWD
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jude Bellingham:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lionel Messi:
+  position: FWD
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mikel Merino:
+  position: MID
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Morgan Rogers:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ousmane Dembele:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Vinicius Jnr:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Phil Foden:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Christian Pulisic:
+  position: MID
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Dani Olmo:
+  position: MID
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cristiano Ronaldo:
+  position: FWD
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Estevao Willian Goncalves:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jonathan David:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Bukayo Saka:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ollie Watkins:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Neymar:
+  position: MID
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cody Gakpo:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Denzel Dumfries:
+  position: DEF
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Erling Haaland:
+  position: FWD
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jose Vinicius Junior:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Bruno Fernandes:
+  position: MID
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cole Palmer:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Florian Wirtz:
+  position: MID
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Julian Alvarez:
+  position: FWD
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Raphinha:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lautaro Martinez:
+  position: FWD
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Memphis Depay:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ferran Torres:
+  position: FWD
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Xavi Simons:
+  position: MID
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Michael Olise:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Noa Lang:
+  position: MID
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kai Havertz:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jamal Musiala:
+  position: MID
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+de Jesus Joao Pedro:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Marcus Rashford:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Donyell Malen:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Robert Lewandowski:
+  position: FWD
+  country: Poland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Igor Thiago:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Pedro neto:
+  position: MID
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nico Williams:
+  position: FWD
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jean-Philippe Mateta:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Eberechi Eze:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Joshua Kimmich:
+  position: DEF
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Marcus Thuram:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nick Woltemade:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Scott McTominay:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Anthony Gordon:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ignacio Laquintana:
+  position: MID
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Folarin Balogun:
+  position: FWD
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Randal Muani:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Rasmus Hojlund:
+  position: FWD
+  country: Kingdom of Denmark
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Virgil van Dijk:
+  position: DEF
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Matias Goncalo Ramos:
+  position: FWD
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Haji Wright:
+  position: FWD
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+de Goes Rodrygo:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Antoine Semenyo:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mateo Retegui:
+  position: FWD
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+David Promise:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ivan Toney:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ricardo Pepi:
+  position: FWD
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Santiago Gimenez:
+  position: FWD
+  country: Italy
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Romelu Lukaku:
+  position: FWD
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Bradley Barcola:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kingsley Coman:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Santos Matheus Cunha:
+  position: UNKNOWN
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Serge Gnabry:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Luis Javier Suarez:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kenen Yildiz:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Niclas Fullkrug:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Francesco Esposito:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Giacomo Raspadori:
+  position: FWD
+  country: Italy
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Estevao Almeida De Oliveira:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Pedri:
+  position: UNKNOWN
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Enzo Fernandez:
+  position: MID
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Endrick:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Leroy Sane:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Rafael Leao:
+  position: FWD
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Luis Diaz:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alvaro Morata:
+  position: FWD
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nicolas Paz:
+  position: UNKNOWN
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Gabriel Martinelli:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Crysencio Summerville:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Deniz Undav:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Brandon Thoms-Asante:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Forlain Balogun:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Habid Diallo:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Wout Weghorst:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ryan Christie:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hugo Ekitike:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Rayan Vitor:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Sequeira Joao Felix:
+  position: FWD
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Isco:
+  position: MID
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nabil Bentaleb:
+  position: MID
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Naim Sliti:
+  position: MID
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kevin De Bruyne:
+  position: MID
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Maximilian Beier:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Takefusa Kubo:
+  position: MID
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Giovanni Reyna:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jeremy Doku:
+  position: FWD
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Fabian Ruiz:
+  position: MID
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Brian Brobbey:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Elye Wahi:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ismael Saibari:
+  position: MID
+  country: Morocco
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nico OReilly:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lawrence Shankland:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Felix Torres:
+  position: DEF
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Brahim Diaz:
+  position: MID
+  country: Morocco
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lennart Karl:
+  position: UNKNOWN
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+John McGinn:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Noni Madueke:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hakan Calhanoglu:
+  position: MID
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jean Philippe Mateta:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nicolas Pepe:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Yoane Wissa:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lois Openda:
+  position: FWD
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Leandro Trossard:
+  position: FWD
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Andreas Gomez:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+George Hirst:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Issahaku Fatawu:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Simon Adringra:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Zakaria Aboukhlal:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Charles De Ketelaere:
+  position: FWD
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+da Silva Luiz Henrique:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alexander Sorloth:
+  position: FWD
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Musa Al Taamari:
+  position: MID
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Joao Neves:
+  position: MID
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kaoru Mitoma:
+  position: MID
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Dodi Lukebakio:
+  position: MID
+  country: Belgium
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jhon Arias:
+  position: MID
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Declan Rice:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Che Adams:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Amas Diallo:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Casemiro:
+  position: MID
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Darwin Nunez:
+  position: UNKNOWN
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alphonso Davies:
+  position: DEF
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Enner Valencia:
+  position: FWD
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ahmed Al Rawi:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Aymen Hussein:
+  position: FWD
+  country: Iraq
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Duckens Nazon:
+  position: FWD
+  country: Haiti
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Fiston Mayele:
+  position: UNKNOWN
+  country: Democratic Republic of the Congo
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Franjo Ivanovic:
+  position: FWD
+  country: Austria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+John Mercado:
+  position: UNKNOWN
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Josh Sargent:
+  position: FWD
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Joshua Zirkzee:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lucas Cavallini:
+  position: FWD
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mitchell Duke:
+  position: FWD
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohamed Toure:
+  position: FWD
+  country: Guinea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohanad Ali:
+  position: FWD
+  country: Iraq
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mojmir Chytil:
+  position: FWD
+  country: Czech Republic
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Sardar Azmoun:
+  position: FWD
+  country: Iran
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Tijjani Reijnders:
+  position: MID
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Youcef Belali:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Luis Sinisterra:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jhon Duran:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Giuliano Simeone:
+  position: UNKNOWN
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nicolas Gonzalez:
+  position: FWD
+  country: Argentina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Baghdad Bounedjah:
+  position: FWD
+  country: Algeria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Bruno Petkovic:
+  position: FWD
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Zeki Amdouni:
+  position: FWD
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Gonzalo Plata:
+  position: FWD
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Bernardo Silva:
+  position: UNKNOWN
+  country: Portugal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ange Bonny:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Viktor Gyokeres:
+  position: FWD
+  country: Sweden
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ayase Ueda:
+  position: UNKNOWN
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Julian Quinones:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lyndon Dykes:
+  position: FWD
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cucho Hernandez:
+  position: MID
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+James Rodriguez:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Breel Embolo:
+  position: FWD
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Armando Gonzalez:
+  position: MID
+  country: Paraguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Richarlison:
+  position: FWD
+  country: Brazil
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Orbelin Pineda:
+  position: MID
+  country: Mexico
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alexander Isak:
+  position: FWD
+  country: Sweden
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Yassine Benzia:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Granit Xhaka:
+  position: MID
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Raul Jimenez:
+  position: FWD
+  country: Mexico
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jorgen Larsen:
+  position: FWD
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Sebastien Haller:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Takumi Minamino:
+  position: MID
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Federico Valverde:
+  position: MID
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Desire Doue:
+  position: FWD
+  country: Ivory Coast
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Martin Boyle:
+  position: UNKNOWN
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Elliot Anderson:
+  position: MID
+  country: United Kingdom
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Justin Kluivert:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Facundo Pellistri:
+  position: MID
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Marko Arnautovic:
+  position: MID
+  country: Austria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Oscar Bobb:
+  position: FWD
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Antonio Nusa:
+  position: FWD
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jordan Ayew:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Sadio Mane:
+  position: FWD
+  country: Senegal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Luka Modric:
+  position: MID
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Elias Saad:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Robin Gosens:
+  position: DEF
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Tim Kleindienst:
+  position: FWD
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ayoub El Kaabi:
+  position: FWD
+  country: Morocco
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nikola Vlasic:
+  position: MID
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Brenden Aaronson:
+  position: MID
+  country: United States
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cedric Bakambu:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nicolas Jackson:
+  position: UNKNOWN
+  country: Senegal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohamed Salah:
+  position: FWD
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Achraf Hakimi:
+  position: DEF
+  country: Spain
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Evann Guessand:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nilson Angulo:
+  position: MID
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cedric Itten:
+  position: MID
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Tete Yengi:
+  position: FWD
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Johan Carbonero:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Youssef En Nesyri:
+  position: FWD
+  country: Morocco
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ali Alipour:
+  position: MID
+  country: Iran
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alireza Jahanbakhsh:
+  position: MID
+  country: Iran
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cecilio Waterman:
+  position: FWD
+  country: Panama
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Eduardo Guerrero:
+  position: MID
+  country: Panama
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Garry Rodrigues:
+  position: MID
+  country: Cape Verde
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Igor Sergeev:
+  position: FWD
+  country: Uzbekistan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jearel Margaritha:
+  position: UNKNOWN
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jose Fajardo:
+  position: FWD
+  country: Panama
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kenji Gorre:
+  position: MID
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Yazan Al Naimat:
+  position: FWD
+  country: Jordan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ryan Mendes:
+  position: MID
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Amine Gouiri:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Igor Matanovic:
+  position: UNKNOWN
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Marco Pasalic:
+  position: MID
+  country: Germany
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Martin Odegaard:
+  position: MID
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Daizen Maeda:
+  position: FWD
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kenan Yildiz:
+  position: FWD
+  country: Turkey
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Arda Guler:
+  position: MID
+  country: Turkey
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Moises Caicedo:
+  position: MID
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Andrej Kramaric:
+  position: FWD
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hirving Lozano:
+  position: MID
+  country: Mexico
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Koki Ogawa:
+  position: FWD
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kyogo Furuhashi:
+  position: FWD
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mao Hosoya:
+  position: FWD
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Thelo Aasgaard:
+  position: UNKNOWN
+  country: Norway
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Antonio Sanabria:
+  position: FWD
+  country: Paraguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mislav Orsic:
+  position: MID
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Promise David:
+  position: FWD
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Brian Rodriguez:
+  position: FWD
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Giorgian De Arrascaeta:
+  position: MID
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Dan Ndoye:
+  position: FWD
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jhon Cordoba:
+  position: FWD
+  country: Colombia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Haris Tabakovic:
+  position: FWD
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Edin Dzeko:
+  position: FWD
+  country: Bosnia and Herzegovina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alessandro Schopf:
+  position: MID
+  country: Austria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ante Budimir:
+  position: FWD
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kerem Akturkoglu:
+  position: FWD
+  country: Turkey
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Facundo Torres:
+  position: FWD
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Son Heung min:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Rayan Cherki:
+  position: FWD
+  country: Algeria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kevin Rodriguez:
+  position: FWD
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Craig Goodwin:
+  position: DEF
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Shuto Machino:
+  position: FWD
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Patrik Schick:
+  position: FWD
+  country: Czech Republic
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Federico Vinas:
+  position: FWD
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Omar Marmoush:
+  position: FWD
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Daichi Kamada:
+  position: MID
+  country: Japan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jordy Caicedo:
+  position: FWD
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Alexis Vega:
+  position: MID
+  country: Mexico
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Roberto Alvarado:
+  position: MID
+  country: Mexico
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Rodrigo Aguirre:
+  position: FWD
+  country: Uruguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Tahith Chong:
+  position: FWD
+  country: Kingdom of the Netherlands
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ismaila Sarr:
+  position: FWD
+  country: Senegal
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Cyle Larin:
+  position: FWD
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Julio Enciso:
+  position: MID
+  country: Paraguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Oumar Diakite:
+  position: UNKNOWN
+  country: Ivory Coast
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ivan Perisic:
+  position: MID
+  country: Croatia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Angel Romero:
+  position: FWD
+  country: Paraguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Heung-min Son:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohammed Kudus:
+  position: FWD
+  country: Ghana
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ruben Vargas:
+  position: MID
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Michael Gregoritsch:
+  position: FWD
+  country: Austria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohammed Amoura:
+  position: MID
+  country: Switzerland
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jean Philippe Krasso:
+  position: FWD
+  country: Ivory Coast
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Wilson Isidor:
+  position: FWD
+  country: France
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Soufiane Rahimi:
+  position: FWD
+  country: Morocco
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Iqraam Rayners:
+  position: FWD
+  country: South Africa
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Marcel Sabitzer:
+  position: FWD
+  country: Austria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Riyad Mahrez:
+  position: MID
+  country: Algeria
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kang-In Lee:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lee Kang Hee:
+  position: UNKNOWN
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Gabriel Avalos:
+  position: FWD
+  country: Paraguay
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Anthony Elanga:
+  position: FWD
+  country: Sweden
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Benjamin Nygren:
+  position: FWD
+  country: Sweden
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohamed Elneny:
+  position: MID
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mostafa Fathi:
+  position: MID
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mostafa Mohamed:
+  position: FWD
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Trezeguet:
+  position: FWD
+  country: Egypt
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Gho Gue sung:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Oh Hyeon-gyu:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Firas Al Buraikan:
+  position: FWD
+  country: Saudi Arabia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mehdi Taremi:
+  position: FWD
+  country: Iran
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jayden Nelson:
+  position: FWD
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hee-Chan Hwang:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Promise Akinpelu:
+  position: FWD
+  country: Canada
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Jordy Alcivar:
+  position: MID
+  country: Ecuador
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hwang Hee chan:
+  position: FWD
+  country: South Korea
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kerim Alajbegovic:
+  position: FWD
+  country: Bosnia and Herzegovina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Tomas Chory:
+  position: FWD
+  country: Czech Republic
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Amad Diallo:
+  position: FWD
+  country: Ivory Coast
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Akram Afif:
+  position: FWD
+  country: Qatar
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Hazem Mastouri:
+  position: FWD
+  country: Tunisia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Seifeddine Jaziri:
+  position: FWD
+  country: Tunisia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ernest Nuamah:
+  position: UNKNOWN
+  country: Ghana
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Mohammed Muntari:
+  position: FWD
+  country: Ghana
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Yan Diomande:
+  position: UNKNOWN
+  country: Ivory Coast
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Chris Wood:
+  position: FWD
+  country: New Zealand
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Adam Taggart:
+  position: FWD
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Kusini Yengi:
+  position: FWD
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Firas Chaouat:
+  position: FWD
+  country: Tunisia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ermedin Demirovic:
+  position: FWD
+  country: Bosnia and Herzegovina
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Saleh Al Shehri:
+  position: FWD
+  country: Saudi Arabia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Salem Al Dawsari:
+  position: FWD
+  country: Saudi Arabia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Abdullah Al Hamdan:
+  position: FWD
+  country: Saudi Arabia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ahmed Alaaeldin:
+  position: FWD
+  country: Qatar
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ali Al Hamadi:
+  position: FWD
+  country: Iraq
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Derrick Etienne:
+  position: FWD
+  country: Haiti
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Don Deedson Louicius:
+  position: FWD
+  country: Haiti
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Frantzdy Pierrot:
+  position: FWD
+  country: Haiti
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Nestory Irankunda:
+  position: FWD
+  country: Australia
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Lyle Foster:
+  position: FWD
+  country: South Africa
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Ben Waine:
+  position: MID
+  country: New Zealand
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM
+Eldor Shomurodov:
+  position: FWD
+  country: Uzbekistan
+  starter_prob: 0.9
+  penalty_taker: 0
+  set_piece_taker: 0
+  minutes_risk: MEDIUM

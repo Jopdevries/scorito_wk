@@ -1,0 +1,22 @@
+match_predictions:
+  group_stage:
+    correct_toto_points: 30
+    exact_score_points: 45
+
+group_rankings:
+  correct_group_position_points: 25
+
+topscorers:
+  group_stage:
+    GK: 32
+    DEF: 32
+    MID: 16
+    FWD: 8
+  round_of_32_multiplier: 2
+  round_of_16_multiplier: 3
+  quarter_final_multiplier: 4
+  semi_final_multiplier: 5
+  final_multiplier: 6
+
+winner_prediction:
+  world_champion_points: 250
