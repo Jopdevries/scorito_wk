@@ -11,8 +11,9 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
 
-from playwright.async_api import Locator, Page, async_playwright
+from playwright.async_api import Locator, Page
 
+from .cloak_browser import browser_session
 from .logging_utils import load_json, save_json, slugify
 from .schemas import (
     Fixture,
@@ -41,9 +42,8 @@ class OddsPortalScraper:
         self,
         max_matches: int | None = None,
     ) -> list[Fixture]:
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=self.headless)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session(headless=self.headless) as browser:
+            page = await browser.new_page()
             fixtures: list[Fixture] = []
             failures: list[str] = []
             for url in COMPETITION_URLS:
@@ -64,7 +64,6 @@ class OddsPortalScraper:
                     LOGGER.warning("OddsPortal fixture page failed: %s", exc)
                     failures.append(f"{url}: {exc}")
                     await self.save_debug(page, "fixtures-failed")
-            await browser.close()
         fixtures = sorted(fixtures, key=lambda fixture: fixture.kickoff_datetime)
         if max_matches is not None:
             fixtures = fixtures[:max_matches]
@@ -81,18 +80,15 @@ class OddsPortalScraper:
         return fixtures
 
     async def scrape_match(self, match_url: str, fixture_id: str) -> dict[str, Any]:
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=self.headless)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session(headless=self.headless) as browser:
+            page = await browser.new_page()
             result = await self._scrape_match_page(page, match_url, fixture_id)
-            await browser.close()
         return result
 
     async def scrape_all(self, max_matches: int | None = None) -> None:
         fixtures = await self.scrape_fixtures(max_matches)
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=self.headless)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session(headless=self.headless) as browser:
+            page = await browser.new_page()
             for fixture in fixtures:
                 cache_path = self.raw_dir / f"{fixture.fixture_id}.json"
                 if cache_path.exists():
@@ -108,7 +104,10 @@ class OddsPortalScraper:
                         fixture.fixture_id,
                     )
                 if not fixture.match_url:
-                    LOGGER.warning("Fixture %s has no match URL", fixture.fixture_id)
+                    LOGGER.warning(
+                        "Fixture %s has no match URL",
+                        fixture.fixture_id,
+                    )
                     continue
                 try:
                     await self._scrape_match_page(
@@ -133,7 +132,6 @@ class OddsPortalScraper:
             except Exception as exc:
                 LOGGER.warning("OddsPortal outright scrape failed: %s", exc)
                 await self.save_debug(page, "oddsportal-outrights-failed")
-            await browser.close()
 
     async def _scrape_outrights_page(
         self,

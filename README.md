@@ -10,8 +10,13 @@ optimize betting value and does not provide betting advice.
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
-python -m playwright install chromium
+python -m cloakbrowser install
 ```
+
+The install command downloads CloakBrowser's patched Chromium binary. The
+download is several hundred MB and is cached under the user profile. The
+scraper still uses the Playwright API, but no longer launches Playwright's
+bundled Chromium.
 
 ## Configuration
 
@@ -97,10 +102,11 @@ this is detected as rate limiting and is never stored as a missing player.
 
 ### Oddschecker Cloudflare fallback
 
-Oddschecker may allow a normal personal browser but block Playwright. The tool
-does not bypass that protection. Existing successful cache data is preserved.
-`run-all` also automatically imports the two files below when they exist. Use
-a one-time manual local DOM export to create or refresh them:
+Oddschecker is opened with CloakBrowser instead of Playwright's bundled
+Chromium. CloakBrowser reduces browser-automation fingerprinting but does not
+guarantee access and does not solve CAPTCHAs. Existing successful cache data is
+preserved. `run-all` also automatically imports the two files below when they
+exist. Use a one-time manual local DOM export to create or refresh them:
 
 1. Open the winner page normally:
    `https://www.oddschecker.com/football/world-cup/winner`

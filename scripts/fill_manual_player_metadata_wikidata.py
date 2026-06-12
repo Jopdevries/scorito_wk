@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import quote_plus
 from typing import Any, cast
 
-from playwright.async_api import async_playwright
+from scorito_wk_odds_optimizer.cloak_browser import browser_session
 
 INPUT_PATH = Path("input/manual_player_metadata.csv")
 SOURCE_PATH = Path("output/topscorer_recommendations.csv")
@@ -299,8 +299,7 @@ async def main() -> None:
     rows = list(cast(list[dict[str, str]], csv.DictReader(SOURCE_PATH.open(encoding="utf-8-sig"))))
 
     WORKER_COUNT = 4
-    async with async_playwright() as playwright:
-        browser = await playwright.chromium.launch(headless=True)
+    async with browser_session() as browser:
         pages = [await browser.new_page() for _ in range(WORKER_COUNT)]
         for page in pages:
             await page.goto(
@@ -333,8 +332,6 @@ async def main() -> None:
         resolved: dict[str, dict[str, object]] = {}
         for chunk_result in chunk_results:
             resolved.update(chunk_result)
-
-        await browser.close()
 
     output_rows: list[dict[str, str]] = []
     unknown_positions = 0

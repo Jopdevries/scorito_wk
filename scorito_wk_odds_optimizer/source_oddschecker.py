@@ -8,8 +8,9 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from playwright.async_api import Page, async_playwright
+from playwright.async_api import Page
 
+from .cloak_browser import browser_session
 from .logging_utils import load_json, save_json, slugify
 from .odds_math import fractional_to_decimal
 from .schemas import RawOutrightOdd, RawTopGoalscorerOdd
@@ -37,9 +38,8 @@ class OddscheckerScraper:
 
     async def scrape_winner_odds(self) -> list[RawOutrightOdd]:
         failures: list[str] = []
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=self.headless)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session(headless=self.headless) as browser:
+            page = await browser.new_page()
             rows: list[RawOutrightOdd] = []
             for url in WINNER_URLS:
                 try:
@@ -55,7 +55,6 @@ class OddscheckerScraper:
                     if isinstance(exc, OddscheckerBlockedError):
                         self.blocked_reason = str(exc)
                         break
-            await browser.close()
         if not rows and not failures:
             failures.append("Winner page loaded but no usable odds rows were found.")
         cache_used = False
@@ -107,9 +106,8 @@ class OddscheckerScraper:
             return rows
 
         failures: list[str] = []
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=self.headless)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session(headless=self.headless) as browser:
+            page = await browser.new_page()
             rows: list[RawTopGoalscorerOdd] = []
             try:
                 await self._goto(page, TOPSCORER_URL)
@@ -121,7 +119,6 @@ class OddscheckerScraper:
                 await self._save_debug(page, "oddschecker-topscorer")
                 if isinstance(exc, OddscheckerBlockedError):
                     self.blocked_reason = str(exc)
-            await browser.close()
         if not rows and not failures:
             failures.append(
                 "Top goalscorer page loaded but no usable odds rows were found."
@@ -208,15 +205,13 @@ class OddscheckerScraper:
     ) -> list[dict[str, list[str] | str]]:
         if not path.is_file():
             raise FileNotFoundError(f"Saved HTML file not found: {path}")
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=True)
-            page = await browser.new_page(locale="en-GB")
+        async with browser_session() as browser:
+            page = await browser.new_page()
             await page.set_content(
                 path.read_text(encoding="utf-8"),
                 wait_until="domcontentloaded",
             )
             rows = await self._extract_table(page)
-            await browser.close()
         return rows
 
     async def _extract_table(self, page: Page) -> list[dict[str, Any]]:
